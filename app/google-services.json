@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702222569013",
+    "project_id": "joyapplication-2c70c",
+    "storage_bucket": "joyapplication-2c70c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702222569013:android:acc9b34a1abe5e82136b7c",
+        "android_client_info": {
+          "package_name": "com.example.joyapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRS40UI2RZHY9Q8RhxPisd-gYirejwNWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
